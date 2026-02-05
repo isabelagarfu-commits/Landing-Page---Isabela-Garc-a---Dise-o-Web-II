@@ -1,0 +1,48 @@
+.icon-lg {
+    font-size: 50px;
+    color: #198754;
+}
+
+#topbar{
+    background-color: #09947d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#topbar span{
+    color:white;
+    font-weight:bold;
+}
+
+.icon-blanco{
+    color:white;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+#hero{
+ padding-top: 80px;
+ padding-bottom: 80px;
+}
+
+.titulo-about{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.numeros{
+    font-size: 60px;
+    color: #198754;
+    font-weight: lighter;
+}
+
+.letras-gris{
+    color: #535151;
+    text-transform: uppercase;
+}
+
+.h6{
+font-weight:bold;
+}
